@@ -1,4 +1,4 @@
-package Day1;
+package Day1Variables;
 
 public class Variables01 {
 
